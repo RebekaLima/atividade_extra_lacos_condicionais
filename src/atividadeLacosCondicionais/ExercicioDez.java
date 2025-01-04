@@ -1,10 +1,7 @@
 package atividadeLacosCondicionais;
 
-import java.time.LocalDate;
 import java.time.LocalDateTime;
-import java.time.format.DateTimeFormatter;
 import java.time.temporal.ChronoUnit;
-import java.util.Calendar;
 import java.util.Scanner;
 
 public class ExercicioDez {
@@ -15,7 +12,6 @@ public class ExercicioDez {
 		
 		Scanner leia = new Scanner(System.in);
 		
-		System.out.println("                                                ");
 		System.out.println("************************************************");
 		System.out.println("                                                ");
 		System.out.println("       Digite o número de uma das opções:       ");
